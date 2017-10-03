@@ -1,0 +1,12 @@
+[20-Sep-2016 00:44:36 America/Chicago] PHP Warning:  include(includes//contact/..inc): failed to open stream: No such file or directory in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:44:36 America/Chicago] PHP Warning:  include(includes//contact/..inc): failed to open stream: No such file or directory in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:44:36 America/Chicago] PHP Warning:  include(): Failed opening 'includes//contact/..inc' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:44:38 America/Chicago] PHP Warning:  include(includes//contact/..inc): failed to open stream: No such file or directory in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:44:38 America/Chicago] PHP Warning:  include(includes//contact/..inc): failed to open stream: No such file or directory in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:44:38 America/Chicago] PHP Warning:  include(): Failed opening 'includes//contact/..inc' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:47:25 America/Chicago] PHP Warning:  include(includes///contact/..inc): failed to open stream: No such file or directory in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:47:25 America/Chicago] PHP Warning:  include(includes///contact/..inc): failed to open stream: No such file or directory in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:47:25 America/Chicago] PHP Warning:  include(): Failed opening 'includes///contact/..inc' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:47:27 America/Chicago] PHP Warning:  include(includes///contact/..inc): failed to open stream: No such file or directory in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:47:27 America/Chicago] PHP Warning:  include(includes///contact/..inc): failed to open stream: No such file or directory in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:47:27 America/Chicago] PHP Warning:  include(): Failed opening 'includes///contact/..inc' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/giving04/public_html/index.php on line 35

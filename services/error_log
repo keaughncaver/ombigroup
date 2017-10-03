@@ -1,0 +1,18 @@
+[20-Sep-2016 00:42:57 America/Chicago] PHP Warning:  include(includes/services/..inc): failed to open stream: No such file or directory in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:42:57 America/Chicago] PHP Warning:  include(includes/services/..inc): failed to open stream: No such file or directory in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:42:57 America/Chicago] PHP Warning:  include(): Failed opening 'includes/services/..inc' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:43:00 America/Chicago] PHP Warning:  include(includes/services/..inc): failed to open stream: No such file or directory in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:43:00 America/Chicago] PHP Warning:  include(includes/services/..inc): failed to open stream: No such file or directory in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:43:00 America/Chicago] PHP Warning:  include(): Failed opening 'includes/services/..inc' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:44:51 America/Chicago] PHP Warning:  include(includes//services/..inc): failed to open stream: No such file or directory in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:44:51 America/Chicago] PHP Warning:  include(includes//services/..inc): failed to open stream: No such file or directory in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:44:51 America/Chicago] PHP Warning:  include(): Failed opening 'includes//services/..inc' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:44:54 America/Chicago] PHP Warning:  include(includes//services/..inc): failed to open stream: No such file or directory in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:44:54 America/Chicago] PHP Warning:  include(includes//services/..inc): failed to open stream: No such file or directory in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:44:54 America/Chicago] PHP Warning:  include(): Failed opening 'includes//services/..inc' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:47:39 America/Chicago] PHP Warning:  include(includes///services/..inc): failed to open stream: No such file or directory in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:47:39 America/Chicago] PHP Warning:  include(includes///services/..inc): failed to open stream: No such file or directory in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:47:39 America/Chicago] PHP Warning:  include(): Failed opening 'includes///services/..inc' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:47:41 America/Chicago] PHP Warning:  include(includes///services/..inc): failed to open stream: No such file or directory in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:47:41 America/Chicago] PHP Warning:  include(includes///services/..inc): failed to open stream: No such file or directory in /home3/giving04/public_html/index.php on line 35
+[20-Sep-2016 00:47:41 America/Chicago] PHP Warning:  include(): Failed opening 'includes///services/..inc' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/giving04/public_html/index.php on line 35
